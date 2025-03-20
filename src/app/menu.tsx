@@ -12,7 +12,7 @@ export default function Home() {
                     <a href="#">About</a>
                     <a href="#">Contact</a>
                 </div>
-                <h1 className="text-xl font-semibold">Alameda</h1>
+             
                 <div className="flex space-x-4 items-center">
                     <FaInstagram />
                     <FaTwitter />
