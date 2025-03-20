@@ -3,9 +3,9 @@ import { FiShoppingCart } from 'react-icons/fi';
 
 export default function Home() {
   return (
-    <div className="min-h-screen bg-white text-black flex flex-col items-center">
+    <div className="min-h-screen bg-white text-black">
     {/* Navbar */}
-            <div className="w-full border-b p-4 flex justify-between items-center max-w-6xl">
+            <div className="w-full border-b p-4  max-w-6xl">
                 <div className="flex space-x-6">
                     <a href="#" className="underline">Shop</a>
                     <a href="#">Lookbook</a>
