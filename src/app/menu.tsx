@@ -3,7 +3,7 @@ import { FiShoppingCart } from 'react-icons/fi';
 
 export default function Home() {
   return (
-    <div className="min-h-screen bg-white text-black">
+    <div className="min-h-screen bg-white text-black flex justify-around">
     {/* Navbar */}
             <div className="w-full border-b p-4  max-w-6xl">
                 <div className="flex space-x-6">
@@ -13,7 +13,7 @@ export default function Home() {
                     <a href="#">Contact</a>
                 </div>
              
-                <div className="flex space-x-4 items-center">
+                <div className="flex space-x-4">
                     <FaInstagram />
                     <FaTwitter />
                     <div className="relative">
