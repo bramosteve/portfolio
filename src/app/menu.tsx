@@ -1,4 +1,3 @@
-import Image from 'next/image';
 import { FaInstagram, FaTwitter } from 'react-icons/fa';
 import { FiShoppingCart } from 'react-icons/fi';
 
